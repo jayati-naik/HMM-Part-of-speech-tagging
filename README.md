@@ -1,2 +1,2 @@
-# HMM-Part-of-speech-tagging
+# HMM Part of speech tagging
 Part of speech tagging
